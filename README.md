@@ -1,4 +1,4 @@
-👋 Hi, I’m @seddboi (aka Gian Z.)! I am a self-made front end developer who is actively looking for a position in the field of Web development!
+👋 Hi, I’m Gian Z. (aka @seddboi)! I am a self-made front end developer who is actively looking for a position in the field of Web development!
  
 👀 My main focus at the moment is becoming a React expert 💯. I am also interested in learning more about the backend, as I LOVE being as well-rounded as I can be! Coding is AWESOME 🤘🏽🤘🏽🤘🏽
 
