@@ -6,7 +6,8 @@ I am always available for any collabs! I try to be as active as can be on here, 
 My primary skills that I use daily: 
  - React
  - Node
- - Express (for a basic server for static site setup)
+ - Express 
+ - SQL (MySQL, PostgreSQL)
  - Material UI (has great React components)
  - Rest API
  - and much more!
