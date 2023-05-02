@@ -1,6 +1,6 @@
 👋 Hi, I’m Gian Z. (aka @seddboi)! I am a self-made front end developer who is actively looking for a position in the field of Web development!
  
-👀 My main focus at the moment is becoming a React expert 💯. I am also interested in learning more about the backend, as I LOVE being as well-rounded as I can be! Coding is AWESOME 🤘🏽🤘🏽🤘🏽
+👀 My main focus at the moment is becoming a Full Stack Expert 💯. I have a work-in-progress messaging application named Messengerer, that is meant to be a Facebook Messanger dupe, with a little more satire style! Follow my messengerer repository to see the progress build 👨🏽‍💻.
 
 I am always available for any collabs! I try to be as active as can be on here, so do not be afraid to reach out to me!
 My primary skills that I use daily: 
@@ -9,15 +9,19 @@ My primary skills that I use daily:
  - Express 
  - SQL (MySQL, PostgreSQL)
  - Material UI (has great React components)
- - Rest API
- - and much more!
+ - Redux
+ - Socket.io
+ - Axios
+ - JSON Web Tokens
+ - Typescript
+ - and growing daily!
 
-Lets get in contact/collaboration: 
+I am extremely appreciative of any comments/questions/concerns. I am also every more appreciative of any open source opportunities that I may be a part of. Reach me here: 
 Email 📧: zmr.gian@gmail.com
 
 LinkedIn 👨🏽‍💻: https://www.linkedin.com/in/gian-zamora/
 
-Portfolio 📁: https://seddboi.github.io/react-portfolio/
+Portfolio 📁: www.gianpzamora.com
 
 Thanks for visiting 👍🏽!
 
